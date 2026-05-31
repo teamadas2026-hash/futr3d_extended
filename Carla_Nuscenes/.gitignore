@@ -1,0 +1,32 @@
+# Generated datasets
+test_tesla/
+test_tesla_rgb/
+test_tesla_rgb_color/
+
+# Rendered images
+rendered_images_*/
+rendered_images_6_13_test_with_rgb/
+
+# Tesla model files
+tesla/
+
+# PyTorch3D scripts
+Pytorch3d_Render_Replace_Original_Image.py
+Pytorch3d_Render_Replace_masked_Image.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
